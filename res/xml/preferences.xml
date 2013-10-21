@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/measures" >
+        <EditTextPreference
+            android:dialogTitle="@string/similarity_dialog"
+            android:key="similarity_degree"
+            android:summary="@string/similarity_summary"
+            android:title="@string/similarity_measure" />
+        <EditTextPreference
+            android:dialogTitle="@string/follower_dialog"
+            android:key="follower_degree"
+            android:summary="@string/follower_summary"
+            android:title="@string/follower_measure" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

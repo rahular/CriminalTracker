@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Criminal Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="track_criminal">Track criminal</string>
+    <string name="crime_prone_areas">Crime Prone Areas</string>
+    <string name="authors">By \"The Hobbits\"</string>
+    <string name="similarity_measure">Similar Trajectories</string>
+    <string name="main_image_content_description">Main image content description</string>
+    <string name="follower_trajectories">Follower Trajectories</string>
+    <string name="similarity_measure">Similarity Measure</string>
+    <string name="follower_measure">Follower Measure</string>
+    <string name="action_settings">Settings</string>
+    <string name="measures">Measures</string>
+    <string name="similarity_dialog">Similarity Measure</string>
+    <string name="follower_dialog">Follower similarity</string>
+    <string name="similarity_summary">The degree to which 2 trajectories should match to be considered similar (in %)</string>
+    <string name="follower_summary">The degree to which 2 trajectories should match so that one is considered as a follower of the other (in %)</string>
+
+</resources>

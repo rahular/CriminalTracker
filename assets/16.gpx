@@ -1,0 +1,920 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" creator="Bike Route Toaster http://www.bikeroutetoaster.com" version="1.0">
+  <trk>
+    <name>Toaster Course</name>
+    <trkseg>
+      <trkpt lat="28.735603081028" lon="77.0320129394531">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:00Z</time>
+        <course>206.476261921027</course>
+        <speed>8.31340444208478</speed>
+      </trkpt>
+      <trkpt lat="28.7354" lon="77.0319">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:03Z</time>
+        <course>115.566692399993</course>
+        <speed>8.31194107686093</speed>
+      </trkpt>
+      <trkpt lat="28.73522" lon="77.03232">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:08Z</time>
+        <course>30.8345869711167</course>
+        <speed>8.31524705231306</speed>
+      </trkpt>
+      <trkpt lat="28.73531" lon="77.03345">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:26Z</time>
+        <course>43.9056117730463</course>
+        <speed>8.32178816984362</speed>
+      </trkpt>
+      <trkpt lat="28.73571" lon="77.03388">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:34Z</time>
+        <course>61.8858575231166</course>
+        <speed>8.31492168915279</speed>
+      </trkpt>
+      <trkpt lat="28.73593" lon="77.03434">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:40Z</time>
+        <course>31.7888589028932</course>
+        <speed>8.32458619517176</speed>
+      </trkpt>
+      <trkpt lat="28.73619" lon="77.03452">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:44Z</time>
+        <course>112.46384946732</course>
+        <speed>8.31785202333295</speed>
+      </trkpt>
+      <trkpt lat="28.73589" lon="77.03533">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:54Z</time>
+        <course>49.720829629555</course>
+        <speed>8.32150493046496</speed>
+      </trkpt>
+      <trkpt lat="28.73611" lon="77.03562">
+        <ele>0</ele>
+        <time>2013-07-18T00:00:59Z</time>
+        <course>110.812658653749</course>
+        <speed>8.31211717296595</speed>
+      </trkpt>
+      <trkpt lat="28.73595" lon="77.03609">
+        <ele>0</ele>
+        <time>2013-07-18T00:01:04Z</time>
+        <course>103.638290430947</course>
+        <speed>8.31519515668302</speed>
+      </trkpt>
+      <trkpt lat="28.7358" lon="77.03678">
+        <ele>0</ele>
+        <time>2013-07-18T00:01:13Z</time>
+        <course>90.7486017223646</course>
+        <speed>8.31939761241888</speed>
+      </trkpt>
+      <trkpt lat="28.73576" lon="77.04002">
+        <ele>0</ele>
+        <time>2013-07-18T00:01:51Z</time>
+        <course>0.507688848725285</course>
+        <speed>8.31989839637787</speed>
+      </trkpt>
+      <trkpt lat="28.73677" lon="77.04003">
+        <ele>0</ele>
+        <time>2013-07-18T00:02:04Z</time>
+        <course>90.7600680882837</course>
+        <speed>8.31782138497579</speed>
+      </trkpt>
+      <trkpt lat="28.73669" lon="77.04614">
+        <ele>0</ele>
+        <time>2013-07-18T00:03:16Z</time>
+        <course>25.522404152133</course>
+        <speed>8.31848267486358</speed>
+      </trkpt>
+      <trkpt lat="28.75274" lon="77.05478">
+        <ele>0</ele>
+        <time>2013-07-18T00:07:13Z</time>
+        <course>24.987228999544</course>
+        <speed>8.31809967860617</speed>
+      </trkpt>
+      <trkpt lat="28.76093" lon="77.0591">
+        <ele>0</ele>
+        <time>2013-07-18T00:09:13Z</time>
+        <course>126.024814457982</course>
+        <speed>8.33082342964808</speed>
+      </trkpt>
+      <trkpt lat="28.76084" lon="77.05924">
+        <ele>0</ele>
+        <time>2013-07-18T00:09:15Z</time>
+        <course>112.60783402261</course>
+        <speed>8.31892770216411</speed>
+      </trkpt>
+      <trkpt lat="28.76042" lon="77.06038">
+        <ele>0</ele>
+        <time>2013-07-18T00:09:30Z</time>
+        <course>121.196736824667</course>
+        <speed>8.31729480949458</speed>
+      </trkpt>
+      <trkpt lat="28.75909" lon="77.06286">
+        <ele>0</ele>
+        <time>2013-07-18T00:10:04Z</time>
+        <course>106.767956581227</course>
+        <speed>8.32320897055612</speed>
+      </trkpt>
+      <trkpt lat="28.75901" lon="77.06316">
+        <ele>0</ele>
+        <time>2013-07-18T00:10:08Z</time>
+        <course>118.541334883244</course>
+        <speed>8.31959926196801</speed>
+      </trkpt>
+      <trkpt lat="28.7578" lon="77.06567">
+        <ele>0</ele>
+        <time>2013-07-18T00:10:41Z</time>
+        <course>115.087594813074</course>
+        <speed>8.32053406272011</speed>
+      </trkpt>
+      <trkpt lat="28.75763" lon="77.06608">
+        <ele>0</ele>
+        <time>2013-07-18T00:10:47Z</time>
+        <course>107.197702926001</course>
+        <speed>8.31599111671044</speed>
+      </trkpt>
+      <trkpt lat="28.75732" lon="77.06721">
+        <ele>0</ele>
+        <time>2013-07-18T00:11:00Z</time>
+        <course>115.962152956948</course>
+        <speed>8.3138999805952</speed>
+      </trkpt>
+      <trkpt lat="28.7571" lon="77.06772">
+        <ele>0</ele>
+        <time>2013-07-18T00:11:07Z</time>
+        <course>121.113331826878</course>
+        <speed>8.31692344387509</speed>
+      </trkpt>
+      <trkpt lat="28.75664" lon="77.06858">
+        <ele>0</ele>
+        <time>2013-07-18T00:11:19Z</time>
+        <course>124.762199953823</course>
+        <speed>8.31880390527213</speed>
+      </trkpt>
+      <trkpt lat="28.75531" lon="77.07074">
+        <ele>0</ele>
+        <time>2013-07-18T00:11:50Z</time>
+        <course>127.281465968027</course>
+        <speed>8.31817591650514</speed>
+      </trkpt>
+      <trkpt lat="28.75341" lon="77.07355">
+        <ele>0</ele>
+        <time>2013-07-18T00:12:31Z</time>
+        <course>109.607188710056</course>
+        <speed>8.31720420224067</speed>
+      </trkpt>
+      <trkpt lat="28.75258" lon="77.07617">
+        <ele>0</ele>
+        <time>2013-07-18T00:13:04Z</time>
+        <course>105.951534261836</course>
+        <speed>8.31913013705164</speed>
+      </trkpt>
+      <trkpt lat="28.75174" lon="77.07947">
+        <ele>0</ele>
+        <time>2013-07-18T00:13:44Z</time>
+        <course>110.350042338377</course>
+        <speed>8.31545800871199</speed>
+      </trkpt>
+      <trkpt lat="28.75144" lon="77.08038">
+        <ele>0</ele>
+        <time>2013-07-18T00:13:56Z</time>
+        <course>116.907616946155</course>
+        <speed>8.31436927973492</speed>
+      </trkpt>
+      <trkpt lat="28.75121" lon="77.08089">
+        <ele>0</ele>
+        <time>2013-07-18T00:14:02Z</time>
+        <course>134.310267515509</course>
+        <speed>8.31769098755514</speed>
+      </trkpt>
+      <trkpt lat="28.75029" lon="77.08195">
+        <ele>0</ele>
+        <time>2013-07-18T00:14:20Z</time>
+        <course>126.170098771708</course>
+        <speed>8.32082583481797</speed>
+      </trkpt>
+      <trkpt lat="28.75003" lon="77.08235">
+        <ele>0</ele>
+        <time>2013-07-18T00:14:26Z</time>
+        <course>110.912237148547</course>
+        <speed>8.31821982045878</speed>
+      </trkpt>
+      <trkpt lat="28.74907" lon="77.08517">
+        <ele>0</ele>
+        <time>2013-07-18T00:15:01Z</time>
+        <course>108.096078191254</course>
+        <speed>8.32059537193739</speed>
+      </trkpt>
+      <trkpt lat="28.74875" lon="77.08627">
+        <ele>0</ele>
+        <time>2013-07-18T00:15:15Z</time>
+        <course>102.119734921734</course>
+        <speed>8.31955633907037</speed>
+      </trkpt>
+      <trkpt lat="28.74862" lon="77.08695">
+        <ele>0</ele>
+        <time>2013-07-18T00:15:23Z</time>
+        <course>108.370171128433</course>
+        <speed>8.31916754214434</speed>
+      </trkpt>
+      <trkpt lat="28.7482" lon="77.08837">
+        <ele>0</ele>
+        <time>2013-07-18T00:15:40Z</time>
+        <course>109.327981328723</course>
+        <speed>8.31994912273191</speed>
+      </trkpt>
+      <trkpt lat="28.7477" lon="77.08997">
+        <ele>0</ele>
+        <time>2013-07-18T00:16:00Z</time>
+        <course>113.113882193927</course>
+        <speed>8.31744483559914</speed>
+      </trkpt>
+      <trkpt lat="28.74716" lon="77.09139">
+        <ele>0</ele>
+        <time>2013-07-18T00:16:18Z</time>
+        <course>94.820340611502</course>
+        <speed>8.32004698360504</speed>
+      </trkpt>
+      <trkpt lat="28.74709" lon="77.09232">
+        <ele>0</ele>
+        <time>2013-07-18T00:16:29Z</time>
+        <course>89.203035119892</course>
+        <speed>8.31996274016902</speed>
+      </trkpt>
+      <trkpt lat="28.74711" lon="77.09398">
+        <ele>0</ele>
+        <time>2013-07-18T00:16:49Z</time>
+        <course>93.4183533722372</course>
+        <speed>8.31858054715398</speed>
+      </trkpt>
+      <trkpt lat="28.74707" lon="77.09473">
+        <ele>0</ele>
+        <time>2013-07-18T00:16:58Z</time>
+        <course>111.871536311564</course>
+        <speed>8.31902069986763</speed>
+      </trkpt>
+      <trkpt lat="28.74592" lon="77.09794">
+        <ele>0</ele>
+        <time>2013-07-18T00:17:38Z</time>
+        <course>90.5493185222773</course>
+        <speed>8.31991328226657</speed>
+      </trkpt>
+      <trkpt lat="28.74591" lon="77.09908">
+        <ele>0</ele>
+        <time>2013-07-18T00:17:51Z</time>
+        <course>97.9025370765402</course>
+        <speed>8.31599299978143</speed>
+      </trkpt>
+      <trkpt lat="28.74577" lon="77.10021">
+        <ele>0</ele>
+        <time>2013-07-18T00:18:05Z</time>
+        <course>94.5490133190633</course>
+        <speed>8.31770684278254</speed>
+      </trkpt>
+      <trkpt lat="28.74558" lon="77.10287">
+        <ele>0</ele>
+        <time>2013-07-18T00:18:36Z</time>
+        <course>90.4661840227761</course>
+        <speed>8.31715986141472</speed>
+      </trkpt>
+      <trkpt lat="28.74557" lon="77.1042">
+        <ele>0</ele>
+        <time>2013-07-18T00:18:52Z</time>
+        <course>181.535291495662</course>
+        <speed>8.31815369758383</speed>
+      </trkpt>
+      <trkpt lat="28.74224" lon="77.1041">
+        <ele>0</ele>
+        <time>2013-07-18T00:19:36Z</time>
+        <course>168.139020346462</course>
+        <speed>8.31388455674344</speed>
+      </trkpt>
+      <trkpt lat="28.74207" lon="77.10414">
+        <ele>0</ele>
+        <time>2013-07-18T00:19:39Z</time>
+        <course>134.879182929361</course>
+        <speed>8.32436851498278</speed>
+      </trkpt>
+      <trkpt lat="28.74199" lon="77.10423">
+        <ele>0</ele>
+        <time>2013-07-18T00:19:40Z</time>
+        <course>121.77637778262</course>
+        <speed>8.31863060897285</speed>
+      </trkpt>
+      <trkpt lat="28.7394" lon="77.1089">
+        <ele>0</ele>
+        <time>2013-07-18T00:20:45Z</time>
+        <course>73.9875268173217</course>
+        <speed>8.31718585521826</speed>
+      </trkpt>
+      <trkpt lat="28.7395" lon="77.10929">
+        <ele>0</ele>
+        <time>2013-07-18T00:20:49Z</time>
+        <course>85.1989617104967</course>
+        <speed>8.32006535864996</speed>
+      </trkpt>
+      <trkpt lat="28.73963" lon="77.11103">
+        <ele>0</ele>
+        <time>2013-07-18T00:21:10Z</time>
+        <course>53.2770496423623</course>
+        <speed>8.34517309764454</speed>
+      </trkpt>
+      <trkpt lat="28.73967" lon="77.11109">
+        <ele>0</ele>
+        <time>2013-07-18T00:21:11Z</time>
+        <course>14.6353078009201</course>
+        <speed>8.32171441229832</speed>
+      </trkpt>
+      <trkpt lat="28.74032" lon="77.11128">
+        <ele>0</ele>
+        <time>2013-07-18T00:21:20Z</time>
+        <course>126.844340794849</course>
+        <speed>8.31721885124326</speed>
+      </trkpt>
+      <trkpt lat="28.73906" lon="77.11316">
+        <ele>0</ele>
+        <time>2013-07-18T00:21:47Z</time>
+        <course>38.2614892394107</course>
+        <speed>8.31856983642537</speed>
+      </trkpt>
+      <trkpt lat="28.74331" lon="77.11692">
+        <ele>0</ele>
+        <time>2013-07-18T00:22:59Z</time>
+        <course>60.7256834150023</course>
+        <speed>8.30790966997203</speed>
+      </trkpt>
+      <trkpt lat="28.7434" lon="77.1171">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:02Z</time>
+        <course>96.1878747520805</course>
+        <speed>8.3249615084588</speed>
+      </trkpt>
+      <trkpt lat="28.74337" lon="77.11741">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:05Z</time>
+        <course>113.122956125367</course>
+        <speed>8.32376066467674</speed>
+      </trkpt>
+      <trkpt lat="28.74329" lon="77.11762">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:08Z</time>
+        <course>126.101862087924</course>
+        <speed>8.31777410569333</speed>
+      </trkpt>
+      <trkpt lat="28.74288" lon="77.11825">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:17Z</time>
+        <course>219.612711465827</course>
+        <speed>8.3174550327873</speed>
+      </trkpt>
+      <trkpt lat="28.74233" lon="77.11774">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:27Z</time>
+        <course>129.172445791206</course>
+        <speed>8.3129563635852</speed>
+      </trkpt>
+      <trkpt lat="28.74217" lon="77.11796">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:30Z</time>
+        <course>129.172445791206</course>
+        <speed>8.3129563635852</speed>
+      </trkpt>
+      <trkpt lat="28.74217" lon="77.11796">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:31Z</time>
+        <course>309.178131023618</course>
+        <speed>8.3129563635852</speed>
+      </trkpt>
+      <trkpt lat="28.74233" lon="77.11774">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:34Z</time>
+        <course>39.5995228052526</course>
+        <speed>8.3174550327873</speed>
+      </trkpt>
+      <trkpt lat="28.74288" lon="77.11825">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:44Z</time>
+        <course>127.821617393924</course>
+        <speed>8.31786191995717</speed>
+      </trkpt>
+      <trkpt lat="28.74218" lon="77.11926">
+        <ele>0</ele>
+        <time>2013-07-18T00:23:59Z</time>
+        <course>40.0935393815372</course>
+        <speed>8.3193890925564</speed>
+      </trkpt>
+      <trkpt lat="28.74307" lon="77.1201">
+        <ele>0</ele>
+        <time>2013-07-18T00:24:14Z</time>
+        <course>35.4995419507945</course>
+        <speed>8.31894146425862</speed>
+      </trkpt>
+      <trkpt lat="28.74402" lon="77.12086">
+        <ele>0</ele>
+        <time>2013-07-18T00:24:30Z</time>
+        <course>305.46275930281</course>
+        <speed>8.31863563743445</speed>
+      </trkpt>
+      <trkpt lat="28.74442" lon="77.12023">
+        <ele>0</ele>
+        <time>2013-07-18T00:24:39Z</time>
+        <course>290.503295825161</course>
+        <speed>8.32258530200815</speed>
+      </trkpt>
+      <trkpt lat="28.74449" lon="77.12002">
+        <ele>0</ele>
+        <time>2013-07-18T00:24:42Z</time>
+        <course>272.174750639955</course>
+        <speed>8.31708228739249</speed>
+      </trkpt>
+      <trkpt lat="28.74453" lon="77.11883">
+        <ele>0</ele>
+        <time>2013-07-18T00:24:56Z</time>
+        <course>288.535647675866</course>
+        <speed>8.31862220788383</speed>
+      </trkpt>
+      <trkpt lat="28.7451" lon="77.11692">
+        <ele>0</ele>
+        <time>2013-07-18T00:25:19Z</time>
+        <course>281.431932231592</course>
+        <speed>8.31591427346108</speed>
+      </trkpt>
+      <trkpt lat="28.74528" lon="77.11592">
+        <ele>0</ele>
+        <time>2013-07-18T00:25:31Z</time>
+        <course>268.114081958638</course>
+        <speed>8.32753001543426</speed>
+      </trkpt>
+      <trkpt lat="28.74482" lon="77.11455">
+        <ele>0</ele>
+        <time>2013-07-18T00:25:49Z</time>
+        <course>262.573240368149</course>
+        <speed>8.31895922338472</speed>
+      </trkpt>
+      <trkpt lat="28.74477" lon="77.11412">
+        <ele>0</ele>
+        <time>2013-07-18T00:25:54Z</time>
+        <course>279.76405780887</course>
+        <speed>8.31674923703414</speed>
+      </trkpt>
+      <trkpt lat="28.74494" lon="77.11301">
+        <ele>0</ele>
+        <time>2013-07-18T00:26:07Z</time>
+        <course>287.477141019338</course>
+        <speed>8.31661912517814</speed>
+      </trkpt>
+      <trkpt lat="28.74524" lon="77.11194">
+        <ele>0</ele>
+        <time>2013-07-18T00:26:20Z</time>
+        <course>273.281015503945</course>
+        <speed>8.32053385938523</speed>
+      </trkpt>
+      <trkpt lat="28.7453" lon="77.11076">
+        <ele>0</ele>
+        <time>2013-07-18T00:26:34Z</time>
+        <course>278.348623145112</course>
+        <speed>8.32016742625882</speed>
+      </trkpt>
+      <trkpt lat="28.74551" lon="77.10915">
+        <ele>0</ele>
+        <time>2013-07-18T00:26:53Z</time>
+        <course>272.870810646512</course>
+        <speed>8.31844243414795</speed>
+      </trkpt>
+      <trkpt lat="28.74562" lon="77.10666">
+        <ele>0</ele>
+        <time>2013-07-18T00:27:22Z</time>
+        <course>267.147173336655</course>
+        <speed>8.31905660968546</speed>
+      </trkpt>
+      <trkpt lat="28.74551" lon="77.10421">
+        <ele>0</ele>
+        <time>2013-07-18T00:27:51Z</time>
+        <course>270.017685805643</course>
+        <speed>8.31760506598761</speed>
+      </trkpt>
+      <trkpt lat="28.74551" lon="77.10285">
+        <ele>0</ele>
+        <time>2013-07-18T00:28:07Z</time>
+        <course>273.85732088974</course>
+        <speed>8.31885038502487</speed>
+      </trkpt>
+      <trkpt lat="28.74564" lon="77.10067">
+        <ele>0</ele>
+        <time>2013-07-18T00:28:32Z</time>
+        <course>277.588347587884</course>
+        <speed>8.31961880185842</speed>
+      </trkpt>
+      <trkpt lat="28.74584" lon="77.09898">
+        <ele>0</ele>
+        <time>2013-07-18T00:28:52Z</time>
+        <course>269.412888056101</course>
+        <speed>8.32015065104336</speed>
+      </trkpt>
+      <trkpt lat="28.74583" lon="77.09791">
+        <ele>0</ele>
+        <time>2013-07-18T00:29:05Z</time>
+        <course>292.348582936045</course>
+        <speed>8.31905291385782</speed>
+      </trkpt>
+      <trkpt lat="28.74693" lon="77.0949">
+        <ele>0</ele>
+        <time>2013-07-18T00:29:43Z</time>
+        <course>276.564069402761</course>
+        <speed>8.31551622301375</speed>
+      </trkpt>
+      <trkpt lat="28.74702" lon="77.09402">
+        <ele>0</ele>
+        <time>2013-07-18T00:29:54Z</time>
+        <course>270.029998443806</course>
+        <speed>8.31762103398014</speed>
+      </trkpt>
+      <trkpt lat="28.74702" lon="77.09172">
+        <ele>0</ele>
+        <time>2013-07-18T00:30:20Z</time>
+        <course>278.871138383196</course>
+        <speed>8.31620907539672</speed>
+      </trkpt>
+      <trkpt lat="28.74707" lon="77.09136">
+        <ele>0</ele>
+        <time>2013-07-18T00:30:25Z</time>
+        <course>293.328914948238</course>
+        <speed>8.32023796309805</speed>
+      </trkpt>
+      <trkpt lat="28.74763" lon="77.0899">
+        <ele>0</ele>
+        <time>2013-07-18T00:30:43Z</time>
+        <course>289.232699333325</course>
+        <speed>8.31767257531062</speed>
+      </trkpt>
+      <trkpt lat="28.74812" lon="77.08832">
+        <ele>0</ele>
+        <time>2013-07-18T00:31:03Z</time>
+        <course>210.012965680423</course>
+        <speed>8.31814735125815</speed>
+      </trkpt>
+      <trkpt lat="28.73839" lon="77.08204">
+        <ele>0</ele>
+        <time>2013-07-18T00:33:32Z</time>
+        <course>300.225450841665</course>
+        <speed>8.31745364914675</speed>
+      </trkpt>
+      <trkpt lat="28.73864" lon="77.08156">
+        <ele>0</ele>
+        <time>2013-07-18T00:33:39Z</time>
+        <course>295.357830265779</course>
+        <speed>8.31819244300698</speed>
+      </trkpt>
+      <trkpt lat="28.74365" lon="77.06964">
+        <ele>0</ele>
+        <time>2013-07-18T00:36:14Z</time>
+        <course>300.715233915513</course>
+        <speed>8.31828957601229</speed>
+      </trkpt>
+      <trkpt lat="28.74719" lon="77.06293">
+        <ele>0</ele>
+        <time>2013-07-18T00:37:45Z</time>
+        <course>180.448217401714</course>
+        <speed>8.31782970618687</speed>
+      </trkpt>
+      <trkpt lat="28.74377" lon="77.0629">
+        <ele>0</ele>
+        <time>2013-07-18T00:38:31Z</time>
+        <course>171.54509835618</course>
+        <speed>8.31853027913759</speed>
+      </trkpt>
+      <trkpt lat="28.74365" lon="77.06292">
+        <ele>0</ele>
+        <time>2013-07-18T00:38:33Z</time>
+        <course>136.062422915534</course>
+        <speed>8.31706105692359</speed>
+      </trkpt>
+      <trkpt lat="28.74315" lon="77.06346">
+        <ele>0</ele>
+        <time>2013-07-18T00:38:42Z</time>
+        <course>155.959460755621</course>
+        <speed>8.31020468887725</speed>
+      </trkpt>
+      <trkpt lat="28.74305" lon="77.06351">
+        <ele>0</ele>
+        <time>2013-07-18T00:38:43Z</time>
+        <course>179.681993699252</course>
+        <speed>8.31926775044177</speed>
+      </trkpt>
+      <trkpt lat="28.73983" lon="77.06353">
+        <ele>0</ele>
+        <time>2013-07-18T00:39:26Z</time>
+        <course>149.835696392675</course>
+        <speed>8.31600001660126</speed>
+      </trkpt>
+      <trkpt lat="28.73883" lon="77.06418">
+        <ele>0</ele>
+        <time>2013-07-18T00:39:42Z</time>
+        <course>145.64864593224</course>
+        <speed>8.31856439392247</speed>
+      </trkpt>
+      <trkpt lat="28.73794" lon="77.06486">
+        <ele>0</ele>
+        <time>2013-07-18T00:39:56Z</time>
+        <course>127.737849715882</course>
+        <speed>8.31881874983458</speed>
+      </trkpt>
+      <trkpt lat="28.73785" lon="77.06499">
+        <ele>0</ele>
+        <time>2013-07-18T00:39:58Z</time>
+        <course>91.5566605629825</course>
+        <speed>8.32563944934085</speed>
+      </trkpt>
+      <trkpt lat="28.73784" lon="77.0654">
+        <ele>0</ele>
+        <time>2013-07-18T00:40:03Z</time>
+        <course>132.446805603465</course>
+        <speed>8.32893707439036</speed>
+      </trkpt>
+      <trkpt lat="28.73775" lon="77.06551">
+        <ele>0</ele>
+        <time>2013-07-18T00:40:05Z</time>
+        <course>180.987322396471</course>
+        <speed>8.31861609076067</speed>
+      </trkpt>
+      <trkpt lat="28.73411" lon="77.06544">
+        <ele>0</ele>
+        <time>2013-07-18T00:40:53Z</time>
+        <course>271.703580081902</course>
+        <speed>8.31729008738526</speed>
+      </trkpt>
+      <trkpt lat="28.73418" lon="77.06276">
+        <ele>0</ele>
+        <time>2013-07-18T00:41:25Z</time>
+        <course>270.404460078397</course>
+        <speed>8.3185010029496</speed>
+      </trkpt>
+      <trkpt lat="28.7342" lon="77.0592">
+        <ele>0</ele>
+        <time>2013-07-18T00:42:06Z</time>
+        <course>180.703807402428</course>
+        <speed>8.32035403101476</speed>
+      </trkpt>
+      <trkpt lat="28.73274" lon="77.05918">
+        <ele>0</ele>
+        <time>2013-07-18T00:42:26Z</time>
+        <course>180.703807402428</course>
+        <speed>8.32035403101476</speed>
+      </trkpt>
+      <trkpt lat="28.73274" lon="77.05918">
+        <ele>0</ele>
+        <time>2013-07-18T00:42:27Z</time>
+        <course>181.117079421738</course>
+        <speed>8.31292458833337</speed>
+      </trkpt>
+      <trkpt lat="28.73228" lon="77.05917">
+        <ele>0</ele>
+        <time>2013-07-18T00:42:33Z</time>
+        <course>270.771043503449</course>
+        <speed>8.31867852133751</speed>
+      </trkpt>
+      <trkpt lat="28.73229" lon="77.05833">
+        <ele>0</ele>
+        <time>2013-07-18T00:42:43Z</time>
+        <course>181.128744801861</course>
+        <speed>8.31818170034787</speed>
+      </trkpt>
+      <trkpt lat="28.72498" lon="77.05817">
+        <ele>0</ele>
+        <time>2013-07-18T00:44:21Z</time>
+        <course>114.079425935266</course>
+        <speed>8.31701181816431</speed>
+      </trkpt>
+      <trkpt lat="28.72438" lon="77.05966">
+        <ele>0</ele>
+        <time>2013-07-18T00:44:40Z</time>
+        <course>115.677452290383</course>
+        <speed>8.31826455145018</speed>
+      </trkpt>
+      <trkpt lat="28.72307" lon="77.06268">
+        <ele>0</ele>
+        <time>2013-07-18T00:45:19Z</time>
+        <course>119.378927669152</course>
+        <speed>8.31674512560297</speed>
+      </trkpt>
+      <trkpt lat="28.72273" lon="77.06335">
+        <ele>0</ele>
+        <time>2013-07-18T00:45:28Z</time>
+        <course>124.160445275717</course>
+        <speed>8.31797885203581</speed>
+      </trkpt>
+      <trkpt lat="28.72045" lon="77.06707">
+        <ele>0</ele>
+        <time>2013-07-18T00:46:21Z</time>
+        <course>125.913099458259</course>
+        <speed>8.3185389356268</speed>
+      </trkpt>
+      <trkpt lat="28.71643" lon="77.0732">
+        <ele>0</ele>
+        <time>2013-07-18T00:47:51Z</time>
+        <course>218.1746860606</course>
+        <speed>8.31881545801102</speed>
+      </trkpt>
+      <trkpt lat="28.71362" lon="77.07076">
+        <ele>0</ele>
+        <time>2013-07-18T00:48:38Z</time>
+        <course>126.614319084212</course>
+        <speed>8.31936218856741</speed>
+      </trkpt>
+      <trkpt lat="28.71325" lon="77.07131">
+        <ele>0</ele>
+        <time>2013-07-18T00:48:46Z</time>
+        <course>126.614319084212</course>
+        <speed>8.31936218856741</speed>
+      </trkpt>
+      <trkpt lat="28.71325" lon="77.07131">
+        <ele>0</ele>
+        <time>2013-07-18T00:48:47Z</time>
+        <course>306.627715944656</course>
+        <speed>8.31936218856741</speed>
+      </trkpt>
+      <trkpt lat="28.71362" lon="77.07076">
+        <ele>0</ele>
+        <time>2013-07-18T00:48:56Z</time>
+        <course>218.198582279537</course>
+        <speed>8.31851189422965</speed>
+      </trkpt>
+      <trkpt lat="28.70896" lon="77.06672">
+        <ele>0</ele>
+        <time>2013-07-18T00:50:14Z</time>
+        <course>212.154367729805</course>
+        <speed>8.31972371957599</speed>
+      </trkpt>
+      <trkpt lat="28.70701" lon="77.06537">
+        <ele>0</ele>
+        <time>2013-07-18T00:50:44Z</time>
+        <course>208.675582780482</course>
+        <speed>8.31807322614946</speed>
+      </trkpt>
+      <trkpt lat="28.70608" lon="77.06481">
+        <ele>0</ele>
+        <time>2013-07-18T00:50:58Z</time>
+        <course>204.901109459239</course>
+        <speed>8.31656388357171</speed>
+      </trkpt>
+      <trkpt lat="28.70516" lon="77.06434">
+        <ele>0</ele>
+        <time>2013-07-18T00:51:12Z</time>
+        <course>262.168875033609</course>
+        <speed>8.33426232069513</speed>
+      </trkpt>
+      <trkpt lat="28.70514" lon="77.06418">
+        <ele>0</ele>
+        <time>2013-07-18T00:51:14Z</time>
+        <course>216.745742685366</course>
+        <speed>8.31842650400817</speed>
+      </trkpt>
+      <trkpt lat="28.70458" lon="77.06372">
+        <ele>0</ele>
+        <time>2013-07-18T00:51:23Z</time>
+        <course>213.726367709315</course>
+        <speed>8.31940312612335</speed>
+      </trkpt>
+      <trkpt lat="28.70244" lon="77.06215">
+        <ele>0</ele>
+        <time>2013-07-18T00:51:57Z</time>
+        <course>118.497484394501</course>
+        <speed>8.31864919781052</speed>
+      </trkpt>
+      <trkpt lat="28.70155" lon="77.06395">
+        <ele>0</ele>
+        <time>2013-07-18T00:52:21Z</time>
+        <course>200.877118619152</course>
+        <speed>8.31949757930065</speed>
+      </trkpt>
+      <trkpt lat="28.70081" lon="77.06364">
+        <ele>0</ele>
+        <time>2013-07-18T00:52:32Z</time>
+        <course>193.696923957605</course>
+        <speed>8.32027899907237</speed>
+      </trkpt>
+      <trkpt lat="28.7001" lon="77.06345">
+        <ele>0</ele>
+        <time>2013-07-18T00:52:41Z</time>
+        <course>207.922438864148</course>
+        <speed>8.31639104667715</speed>
+      </trkpt>
+      <trkpt lat="28.69912" lon="77.06288">
+        <ele>0</ele>
+        <time>2013-07-18T00:52:56Z</time>
+        <course>298.197913625657</course>
+        <speed>8.31370248376785</speed>
+      </trkpt>
+      <trkpt lat="28.69933" lon="77.06245">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:02Z</time>
+        <course>28.6602019544991</course>
+        <speed>8.33426723535351</speed>
+      </trkpt>
+      <trkpt lat="28.69948" lon="77.06254">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:04Z</time>
+        <course>180</course>
+        <speed>8.54769230886282</speed>
+      </trkpt>
+      <trkpt lat="28.69947" lon="77.06254">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:04Z</time>
+        <course>210.356446022136</course>
+        <speed>8.3067965090798</speed>
+      </trkpt>
+      <trkpt lat="28.69933" lon="77.06245">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:06Z</time>
+        <course>118.756089175472</course>
+        <speed>8.31055297667869</speed>
+      </trkpt>
+      <trkpt lat="28.69923" lon="77.06265">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:09Z</time>
+        <course>214.751004186289</course>
+        <speed>8.31954615287163</speed>
+      </trkpt>
+      <trkpt lat="28.69785" lon="77.0616">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:31Z</time>
+        <course>294.930180170289</course>
+        <speed>8.31843119636</speed>
+      </trkpt>
+      <trkpt lat="28.69821" lon="77.06075">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:42Z</time>
+        <course>329.117577742645</course>
+        <speed>8.32228431048212</speed>
+      </trkpt>
+      <trkpt lat="28.69853" lon="77.06054">
+        <ele>0</ele>
+        <time>2013-07-18T00:53:47Z</time>
+        <course>309.75646301265</course>
+        <speed>8.3193002715544</speed>
+      </trkpt>
+      <trkpt lat="28.69981" lon="77.05885">
+        <ele>0</ele>
+        <time>2013-07-18T00:54:13Z</time>
+        <course>321.724983260389</course>
+        <speed>8.32168887705741</speed>
+      </trkpt>
+      <trkpt lat="28.70056" lon="77.0582">
+        <ele>0</ele>
+        <time>2013-07-18T00:54:26Z</time>
+        <course>222.595234072764</course>
+        <speed>8.31885419000669</speed>
+      </trkpt>
+      <trkpt lat="28.69945" lon="77.05708">
+        <ele>0</ele>
+        <time>2013-07-18T00:54:46Z</time>
+        <course>219.152004867009</course>
+        <speed>8.31723209662646</speed>
+      </trkpt>
+      <trkpt lat="28.6987" lon="77.05641">
+        <ele>0</ele>
+        <time>2013-07-18T00:54:58Z</time>
+        <course>209.102420179849</course>
+        <speed>8.31586763426483</speed>
+      </trkpt>
+      <trkpt lat="28.69775" lon="77.05583">
+        <ele>0</ele>
+        <time>2013-07-18T00:55:13Z</time>
+        <course>295.59666361658</course>
+        <speed>8.31974667533175</speed>
+      </trkpt>
+      <trkpt lat="28.69874" lon="77.05356">
+        <ele>0</ele>
+        <time>2013-07-18T00:55:43Z</time>
+        <course>299.802679324443</course>
+        <speed>8.3158164380399</speed>
+      </trkpt>
+      <trkpt lat="28.6991" lon="77.05287">
+        <ele>0</ele>
+        <time>2013-07-18T00:55:52Z</time>
+        <course>214.064552163904</course>
+        <speed>8.31723702717559</speed>
+      </trkpt>
+      <trkpt lat="28.69736" lon="77.05158">
+        <ele>0</ele>
+        <time>2013-07-18T00:56:20Z</time>
+        <course>233.142138789559</course>
+        <speed>8.31833192704709</speed>
+      </trkpt>
+      <trkpt lat="28.69453" lon="77.04745">
+        <ele>0</ele>
+        <time>2013-07-18T00:57:21Z</time>
+        <course>303.797548429114</course>
+        <speed>8.32014218756108</speed>
+      </trkpt>
+      <trkpt lat="28.69533" lon="77.04614">
+        <ele>0</ele>
+        <time>2013-07-18T00:57:40Z</time>
+        <course>303.797548429114</course>
+        <speed>8.32014218756108</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
