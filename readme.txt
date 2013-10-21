@@ -1,4 +1,4 @@
-Steps to be performed to run thr application from Eclipse
+Steps to be performed to run the application from Eclipse
 1. Setup Google Play Services SDK and import the library project into Eclipse for accessing the Maps API (can be done by following the instructions here : http://developer.android.com/google/play-services/setup.html)
 2. Please make sure that the above mentioned library project is properly imported from <android-sdk-dir>/extras/google/google-play-services/libproject. CriminalTracker WILL NOT work until this is done properly.
 3. Import the 'CriminalTracker' project into Eclipse (File -> Import)
